@@ -1,0 +1,22 @@
+body {
+  background-color: #003366;
+  color: white;
+  
+}
+#header {
+  color: white;
+  text-decoration: none;
+  margin-left: 10rem;
+  z-index: 0;
+  display: inline;
+  position: fixed;
+  background: #003366;
+}
+
+hide {
+  visibility: hidden;
+}
+.left {
+  margin-left: 20rem;
+  font-style: times
+}
