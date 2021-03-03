@@ -18,5 +18,33 @@ hide {
 }
 .left {
   margin-left: 20rem;
-  font-style: times
+  font-family: monospace;
+}
+#name {
+  font-family: monospace;
+}
+#about {
+  font-family: monospace;
+  border-radius: 10px;
+  top: 77vh;
+  left: 37vw;
+  position: absolute;
+  height: 10vw;
+  width: 20vw;
+}
+#avtar {
+  top: 77vh;
+  left: 27vw;
+  position: absolute;
+  
+}
+#progress {
+font-family: monospace;
+  border-radius: 10px;
+  top: 10vh;
+  left: 17vw;
+  position: absolute;
+  height: 10vw;
+  width: 20vw;
+  
 }
